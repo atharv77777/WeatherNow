@@ -47,4 +47,3 @@ export default function WeatherApp(){
 } 
 
 
-//https://chatgpt.com/share/684d5feb-a8e8-800a-b6f5-c4a8e87c54b1
