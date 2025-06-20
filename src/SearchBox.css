@@ -1,0 +1,11 @@
+.SearchBox{
+    text-align: center;
+    margin-bottom: 25px;
+    color:rgb(142, 84, 13);
+}
+.headings{
+    font-family: cursive;
+}
+#city{
+    color:rgb(240, 234, 235);
+}
